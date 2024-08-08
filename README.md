@@ -2,7 +2,7 @@
 Research Paper: Enhancing Model Explainability Through S-GuISE: A Spectral Clustering-Guided Input Sampling Scheme
 
 In this paper the contribution is to design new metrics - DTI and DTD metrics for XAI method evaluation
-and novel XAI method S-GuISE for image related XAI method.
+and novel XAI method S-GuISE for image related XAI approach.
 
 For state-of-the-art comparison: GuISE, Grad-CAM, LIME, RISE is utilized (Check their official implementation code of the paper)
 
